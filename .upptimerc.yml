@@ -37,7 +37,7 @@ status-website:
   introMessage: This page collects and displays the status of key HyenaMC servers and websites, powered by Upptime and GitHub Acions.
   navbar:
     - title: Status
-      href: /
+      href: /hyena-upptime
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
     - title: HyenaMC Skin Station
