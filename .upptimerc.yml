@@ -10,21 +10,21 @@ sites:
     url: mc.teamhyena.org
     port: 25577
   - name: Reverse Proxy (Hefei)
-  check: "tcp-ping"
-  url: 120.78.128.225
-  port: 7007
+    check: "tcp-ping"
+    url: 120.78.128.225
+    port: 7007
   - name: Main Server (Survival)
-  check: "tcp-ping"
-  url: minecraft.teamhyena.org
-  port: 25560
+    check: "tcp-ping"
+    url: minecraft.teamhyena.org
+    port: 25560
   - name: Main Server (Mod)
-  check: "tcp-ping"
-  url: minecraft.teamhyena.org
-  port: 7001
+    check: "tcp-ping"
+    url: minecraft.teamhyena.org
+    port: 7001
   - name: Main Server (Skyblock)
-  check: "tcp-ping"
-  url: minecraft.teamhyena.org
-  port: 25561
+    check: "tcp-ping"
+    url: minecraft.teamhyena.org
+    port: 25561
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
