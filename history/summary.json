@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.teamhyena.org.ico",
     "slug": "skin-station",
     "status": "down",
-    "uptime": "97.89%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "97.89%",
+    "uptime": "96.99%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "96.99%",
     "time": 421,
     "timeDay": 420,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2024-07-31": 46
+      "2024-07-31": 66
     }
   },
   {
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 31,
+    "timeDay": 32,
     "timeWeek": 32,
     "timeMonth": 32,
     "timeYear": 32,
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
+    "time": 237,
     "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server-survival",
     "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.56%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.56%",
     "time": 36,
     "timeDay": 36,
     "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-07-31": 22
+      "2024-07-31": 32
     }
   }
 ]
